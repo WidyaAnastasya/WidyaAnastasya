@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-Nice of you to have stumbled here in my humble abode!😄 I am anastasya, a (fresh) grad of Chem with a minor in data science! I like all kinds of data thingy with all its glitter of analysis! Also very much in love with machine learning and all its glory, sometimes when I am feeling particularly adventurous I would delved into artificial intelligence✨. 
+Nice of you to have stumbled here in my humble abode!😄 I am anastasya, a (fresh) grad of Chem with a minor in data science! 
+
+🌱
+
+I like all kinds of data thingy with all its glitter of analysis! Also very much in love with machine learning and all its glory, sometimes when I am feeling particularly adventurous I would delved into artificial intelligence✨. 
 But for now, data science in my kinda jam (my ninja path if you will, lol)
 
 🌱
